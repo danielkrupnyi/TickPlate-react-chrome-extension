@@ -11,4 +11,4 @@
 
 #### Popup
 
-![Popup](assets/record-base.gif)
+![Popup](assets/record-base.mov)
