@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Simple List",
-  "short_name": "SimList",
+  "name": "TickPlate",
+  "short_name": "TickPlate",
   "version": "1.0.0",
   "description": "Todo list for creatives",
   "icons": {
@@ -10,7 +10,7 @@
     "128": "icons/128.png"
   },
   "browser_action": {
-    "default_title": "Todo List",
+    "default_title": "TickPlate",
     "default_popup": "index.html"
   },
   "permissions": ["storage"]
