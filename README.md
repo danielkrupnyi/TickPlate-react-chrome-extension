@@ -10,5 +10,3 @@
 ## Example
 
 #### Popup
-
-![Popup](https://cloud.githubusercontent.com/assets/3001525/14128490/dc05e9f8-f653-11e5-9de6-82d1de01844a.gif)
