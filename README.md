@@ -11,4 +11,8 @@
 
 #### Popup
 
-![Popup](assets/record-base.mov)
+![Popup](assets/base.png)
+
+#### Dark theme
+
+![Dark theme](assets/record-theme.gif)
