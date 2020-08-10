@@ -1,5 +1,8 @@
 # TickList-react-chrome-extension
 
+[![Build status](https://ci.appveyor.com/api/projects/status/x7h6hracejtj0sds?svg=true)](https://ci.appveyor.com/project/danielkrupnyy/tickplate-react-chrome-extension)
+[![dependencies](https://david-dm.org/danielkrupnyy/TickPlate-react-chrome-extension.svg)](https://david-dm.org/danielkrupnyy/TickPlate-react-chrome-extension.svg)
+
 ##Features
 
 - Simple [React-based](https://github.com/facebook/react) Todo List
