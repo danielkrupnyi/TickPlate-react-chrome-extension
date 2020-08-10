@@ -1,8 +1,6 @@
 const path = require("path");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const CopyPlugin = require("copy-webpack-plugin");
-// const baseManifest = require("./chrome/manifest.json");
-// const WebpackExtensionManifestPlugin = require("webpack-extension-manifest-plugin");
 
 const config = {
   mode: "development",
@@ -36,11 +34,6 @@ const config = {
         { from: "chrome/manifest.json", to: "" },
       ],
     }),
-    // new WebpackExtensionManifestPlugin({
-    //   config: {
-    //     base: baseManifest,
-    //   },
-    // }),
   ],
   module: {
     rules: [
