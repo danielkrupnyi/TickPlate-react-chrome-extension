@@ -10,3 +10,5 @@
 ## Example
 
 #### Popup
+
+![Popup](assets/record-base.gif)
